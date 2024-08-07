@@ -1,0 +1,17 @@
+[
+  {
+    "pokemonOwnerName": "Jhansi",
+    "pokemons": [
+      {
+        "id": "9c2bc9db-abb1-4b54-abb7-b9246fb9a089",
+        "pokemonOwnerName": "Jhansi",
+        "direction": "east",
+        "initialPositionX": "300",
+        "initialPositionY": "335",
+        "pokemonName": "beedrill",
+        "pokemonAbility": "swarm",
+        "speed": "550"
+      }
+    ]
+  }
+]
